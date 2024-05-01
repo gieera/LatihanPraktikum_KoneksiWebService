@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Sekolah Tinggi Akuntansi Negara (STAN)",
+        "state-province": null,
+        "domains": [
+            "stan.ac.id"
+        ],
+        "web_pages": [
+            "http://www.stan.ac.id/"
+        ],
+        "alpha_two_code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Trisakti Institute of Tourism",
+        "state-province": null,
+        "domains": [
+            "stptrisakti.ac.id"
+        ],
+        "web_pages": [
+            "http://www.stptrisakti.ac.id/"
+        ],
+        "alpha_two_code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Universitas Telkom",
+        "state-province": null,
+        "domains": [
+            "telkomuniversity.ac.id"
+        ],
+        "web_pages": [
+            "http://www.telkomuniversity.ac.id/"
+        ],
+        "alpha_two_code": "ID",
+        "country": "Indonesia"
+    }
+  ]
